@@ -16,3 +16,4 @@ rootProject.name = "Jia"
 include ':app'
 include ':myprogressbar'
 include ':mynotification'
+include ':mytoolbar'
