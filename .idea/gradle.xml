@@ -7,13 +7,14 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="D:/Install_exe/gradle/gradle-7.4-bin/gradle-7.4" />
+        <option name="gradleHome" value="G:/Install_exe/gradle/gradle-7.4" />
         <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/fragmentmanagers" />
+            <option value="$PROJECT_DIR$/myactivityjump" />
             <option value="$PROJECT_DIR$/myalertdialog" />
             <option value="$PROJECT_DIR$/myconstraintlayout" />
             <option value="$PROJECT_DIR$/myfragmentbase" />

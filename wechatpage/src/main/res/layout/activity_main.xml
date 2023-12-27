@@ -13,5 +13,5 @@
         android:layout_weight="1"
         android:id="@+id/id_viewpager"/>
 
-
+    <include layout="@layout/bottom_layout"/>
 </LinearLayout>
